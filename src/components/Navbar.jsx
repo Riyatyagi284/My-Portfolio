@@ -18,7 +18,7 @@ const Navbar = () => {
              }}
             >
           <img src={riyaLogo} alt="logo" className='w-9 h-9 object-contain rounded-full'/>
-          <p className='text-white text-[18px] font-bold cursor-pointer flex'>Riya&nbsp;Tyagi</p>
+          <p className='text-white text-[18px] font-bold cursor-pointer flex'>Riya&nbsp;Tyagi&nbsp;7011173652</p>
             </Link> 
             <ul className='list-none hidden sm:flex flex-row gap-10'>
               {
